@@ -228,3 +228,5 @@ func main(){
     var b = &a // This is how you turn b in to a pointer of variable a by writing &a 
     fmt.Println("this is b value",*b) // this is how you get the actual value that is present in the address location that variable b holds. 
 }
+
+/*test it*/
